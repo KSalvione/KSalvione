@@ -1,5 +1,5 @@
 Hi, I’m @KSalvione<br/>
-I woke up and chose ✨ J A V A S C R I P T ✨<br/>
+✨ J A V A S C R I P T ✨<br/>
 I'm an email developer and I'm learning frontend<br/>
 I have a dog and a cat and I play Elder Scrolls Online
 
