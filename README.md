@@ -1,7 +1,7 @@
 Hi, I’m @KSalvione<br/>
-✨ J A V A S C R I P T ✨<br/>
-I'm an email developer and I'm learning frontend<br/>
-I have a dog and a cat and I play Elder Scrolls Online
+✨ SQL - MARKETING - DATA ✨<br/>
+I'm an email developer and I'm learning data analysis<br/>
+I have 2 dogs and a cat and I like video games, cooking, and DnD
 
 <!---
 KSalvione/KSalvione is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
